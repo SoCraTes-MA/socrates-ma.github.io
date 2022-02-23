@@ -2,6 +2,7 @@
 baseurl = "https://socrates-ma.github.io/"
 languageCode = "en-us"
 title = "SoCraTes-MA"
+description = "International Conference for Software Craft and Testing"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "278882533"
@@ -20,6 +21,7 @@ googleAnalytics = "278882533"
 	# information about you and your website.
 	name = "SoCraTes Maroc"
 	description = "International Conference for Software Craft and Testing"
+	baseurl = "https://socrates-ma.github.io/"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -37,7 +39,7 @@ googleAnalytics = "278882533"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes MAroc 2022"
+		brand = "SoCraTes Maroc 2022"
 		services = "What it is about?"
 		portfolio = "Information"
 		about = "History"
@@ -295,10 +297,15 @@ googleAnalytics = "278882533"
 		# 	logo = "novencia-square.jpg"
 		# 	link = "http://www.novencia.com"
 
-		 [[params.sponsor]]
+		[[params.sponsor]]
 		 	name = "Axa"
 		 	logo = "axa-square.jpg"
 		 	link = "https://www.axa.fr"
+
+		[[params.sponsor]]
+		 	name = "La Combe du Lion Vert"
+		 	logo = "La_Combe_du_Lion_Vert.png"
+		 	link = "https://la-combe-du-lion-vert.fr/"
 
 		# [[params.sponsor]]
         #	name = "BCG Platinion"

@@ -86,7 +86,7 @@ The cost will be:
 Real registration will come later.
 
 
-## SoCraTes-FR is a part of a big family.
+## SoCraTes-Ma is a part of a big family.
 
 The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011.
 

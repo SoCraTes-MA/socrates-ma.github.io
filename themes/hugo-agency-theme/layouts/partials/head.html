@@ -1,17 +1,17 @@
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="X-UA-Comgitpatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
 <meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
 <meta name="title" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
 
 <meta property="og:title" content="{{ with .Site.Params.name }}{{ . }}{{ end }}"/>
-<meta property='og:description' content="{{ with .Site.Params.description }}{{ . }}{{ end }}"/>
-<meta property='og:url' content="{{ with .Site.baseurl }}{{ . }}{{ end }}"/>
+<meta property="og:description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}"/>
+<meta property="og:url" content="{{ with .Site.Params.baseurl }}{{ . }}{{ end }}"/>
 
 <meta property="twitter:title" content="{{ with .Site.Params.name }}{{ . }}{{ end }}"/>
-<meta property='twitter:description' content="{{ with .Site.Params.description }}{{ . }}{{ end }}"/>
-<meta property='twitter:site' content="{{ with .Site.baseurl }}{{ . }}{{ end }}"/>
+<meta property="twitter:description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}"/>
+<meta property="twitter:site" content="{{ with .Site.Params.baseurl }}{{ . }}{{ end }}"/>
 
 {{ .Hugo.Generator }}
 <title>{{ .Site.Title }}</title>
