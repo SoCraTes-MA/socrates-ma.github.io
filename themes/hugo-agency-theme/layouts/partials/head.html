@@ -13,7 +13,7 @@
 <meta property="twitter:description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}"/>
 <meta property="twitter:site" content="{{ with .Site.Params.baseurl }}{{ . }}{{ end }}"/>
 
-{{ .Hugo.Generator }}
+{{ hugo.Generator }}
 <title>{{ .Site.Title }}</title>
 {{ "<!-- Bootstrap Core CSS -->" | safeHTML }}
 <link href="{{ .Site.BaseURL }}css/bootstrap.min.css" rel="stylesheet">

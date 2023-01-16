@@ -67,8 +67,8 @@ googleAnalytics = "278882533"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "March 25-27, 2022. International Conference for Software Craft and Testing."
-		subtitle = "SoCraTES MAroc 2022"
+		title = "March 10-12, 2023 International Conference for Software Craft and Testing."
+		subtitle = "SoCraTeS Morocco 2023"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -122,10 +122,20 @@ googleAnalytics = "278882533"
 		# Replace them with your own.
 
 		[[params.about.events]]
+			img = "vechy-bouznika.jpg"
+			date = "March 10-12, 2023"
+			title = "Second edition - Bouznika"
+			description = "We plan to gather 40 software crafts, join us and be part of this edition!"
+
+
+      [[params.about.events]]
 			img = "1.jpg"
 			date = "March 25-27, 2022"
-			title = "First edition"
-			description = "See you in Marrakesh"
+			title = "First edition - Marrakesh"
+			description = "We gathered 30 software craft and 8 partner/sponsors"
+
+
+
 
 	# Team section
 	[params.team]
@@ -253,25 +263,35 @@ googleAnalytics = "278882533"
 		title = "Our Sponsors"
 		subtitle = ""
 
-		[[params.sponsor]]
-			name = "INWI"
-			logo = "inwi-square.jpeg"
-			link = "https://inwi.ma/"
-
-		[[params.sponsor]]
+    [[params.sponsor]]
+			name = "Keiken Digital Solutions"
+			logo = "keiken-logo.jpg"
+			link = "https://keiken-digital.com/"
+    
+    [[params.sponsor]]
 			name = "Maltem Africa"
 			logo = "maltem-square.jpeg"
 			link = "https://maltem.com/en/blog/portfolio-item/maltem-africa/"
 
 		[[params.sponsor]]
-			name = "NimbleWays"
-			logo = "nimble-square.jpeg"
-			link = "https://www.nimbleways.com"
+		 	name = "Zenika"
+		 	logo = "zenika-square.jpg"
+		 	link = "http://www.zenika.com"
 
- 		[[params.sponsor]]
-			name = "Gemography"
-			logo = "gemography-square.png"
-			link = "https://www.gemography.com"
+		[[params.sponsor]]
+			name = "INWI"
+			logo = "inwi-square.jpeg"
+			link = "https://inwi.ma/"
+
+		#[[params.sponsor]]
+		#	name = "NimbleWays"
+		#	logo = "nimble-square.jpeg"
+		#	link = "https://www.nimbleways.com"
+
+ 		#[[params.sponsor]]
+		#	name = "Gemography"
+		#	logo = "gemography-square.png"
+		#	link = "https://www.gemography.com"
 
 		#[[params.sponsor]]
 		#	name = "Octo Technology"
@@ -298,20 +318,17 @@ googleAnalytics = "278882533"
 		# 	logo = "novencia-square.jpg"
 		# 	link = "http://www.novencia.com"
 
-		[[params.sponsor]]
-		 	name = "Axa"
-		 	logo = "axa-square.jpg"
-		 	link = "https://www.axa.fr"
+		#[[params.sponsor]]
+		# 	name = "Axa"
+		# 	logo = "axa-square.jpg"
+		# 	link = "https://www.axa.fr"
 
-		[[params.sponsor]]
-		 	name = "La Combe du Lion Vert"
-		 	logo = "La_Combe_du_Lion_Vert.png"
-		 	link = "https://la-combe-du-lion-vert.fr/"
+		#[[params.sponsor]]
+		# 	name = "La Combe du Lion Vert"
+		# 	logo = "La_Combe_du_Lion_Vert.png"
+		# 	link = "https://la-combe-du-lion-vert.fr/"
 		
-		[[params.sponsor]]
-			name = "Keiken Digital Solutions"
-			logo = "keiken-logo.jpg"
-			link = "https://keiken-digital.com/"
+		
 
 
 		# [[params.sponsor]]
@@ -334,10 +351,6 @@ googleAnalytics = "278882533"
  		# 	logo = "orange-square.png"
  		# 	link = "https://developer.orange.com"
 
-		# [[params.sponsor]]
-		# 	name = "Zenika"
-		# 	logo = "zenika-square.jpg"
-		# 	link = "http://www.zenika.com"
 
 	[params.socratesday]
 		enable = false
@@ -347,7 +360,7 @@ googleAnalytics = "278882533"
 
 	[params.contact]
 		enable = true
-		title = "Registration is now closed !!"
+		title = "Registration will be open soon, stay tuned !!"
 		#subtitle  = "The event will be limited to 30 participants with a managed hotel accomodation within Palais Ronsard for this first edition, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat and the kind of access you will be able to opt for."
 		#buttonText = "Send message"
 
@@ -362,4 +375,9 @@ googleAnalytics = "278882533"
 
 		[[params.footer.social]]
 			icon = "fa-linkedin"
-			link = "https://www.linkedin.com/company/socrates-ma/"
+			link = "https://www.linkedin.com/company/moroccansoftwarecrafters/"
+
+    [[params.footer.social]]
+			icon = "fa-instagram"
+			link = "https://www.instagram.com/moroccansoftwarecrafters/"
+
