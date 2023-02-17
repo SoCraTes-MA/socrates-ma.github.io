@@ -272,10 +272,10 @@ googleAnalytics = "278882533"
 			logo = "maltem-square.jpeg"
 			link = "https://maltem.com/en/blog/portfolio-item/maltem-africa/"
 
-		[[params.sponsor]]
-		 	name = "Zenika"
-		 	logo = "Vertical_Black_Logo_Zenika.png"
-		 	link = "http://www.zenika.com"
+		#[[params.sponsor]]
+		# 	name = "Zenika"
+		# 	logo = "Vertical_Black_Logo_Zenika.png"
+		# 	link = "http://www.zenika.com"
 
 		[[params.sponsor]]
 			name = "INWI"
