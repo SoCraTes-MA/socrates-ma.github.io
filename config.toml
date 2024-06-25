@@ -34,7 +34,7 @@ googleAnalytics = "278882533"
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
 	email = "socrates.ma@gmail.com"
-	gforms = "1FAIpQLScIR1x5GFpAKIXzukcCqb4uue98riVEVnCZxzRqyTxbdi4VDg"
+	gforms = "1FAIpQLSc40jBL3dTrDNw_efqMEgsFuLRSrP09Ry2mm8n_z52Vmk_s0w/"
 
 	# Navigation
 	[params.navigation]
@@ -66,8 +66,8 @@ googleAnalytics = "278882533"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "March 10-12, 2023 International Conference for Software Craft and Testing."
-		subtitle = "SoCraTeS Morocco 2023"
+		title = "September 12-15, 2024 International Conference for Software Craft and Testing."
+		subtitle = "SoCraTeS Morocco 2024"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -122,12 +122,17 @@ googleAnalytics = "278882533"
 
 		[[params.about.events]]
 			img = "vechy-bouznika.jpg"
+			date = "September 12-15, 2024"
+			title = "Third edition - Bouznika"
+			description = "We plan to gather 60 software crafts, join us and be part of this edition!"
+
+		[[params.about.events]]
+			img = "vechy-bouznika.jpg"
 			date = "March 10-12, 2023"
 			title = "Second edition - Bouznika"
-			description = "We plan to gather 40 software crafts, join us and be part of this edition!"
+			description = "We gathered 45 software craft and 10 partner/sponsors"
 
-
-      [[params.about.events]]
+      	[[params.about.events]]
 			img = "ronsard.jpg"
 			date = "March 25-27, 2022"
 			title = "First edition - Marrakesh"
@@ -259,12 +264,17 @@ googleAnalytics = "278882533"
 	# Sponsor section
 	[params.sponsors]
 		enable = true
-		title = "Our Sponsors"
+		title = "Our Previous Sponsors"
 		subtitle = ""
+
+		[[params.sponsor]]
+			name = "Societe Generale ATS"
+			logo = "SG-ATS.jpg"
+			link = "https://careers.societegenerale.com/en/group/africa-technologies-services"
 
    		[[params.sponsor]]
 			name = "Keiken Digital Solutions"
-			logo = "keiken-logo.jpg"
+			logo = "KEIKEN-LOGO.jpeg"
 			link = "https://keiken-digital.com/"
     
    		[[params.sponsor]]
@@ -292,6 +302,21 @@ googleAnalytics = "278882533"
 			logo = "gemography-square.png"
 			link = "https://www.gemography.com"
 
+		[[params.sponsor]]
+			name = "ZSoft Consulting"
+			logo = "zsoft-logo.jpeg"
+			link = "https://www.zsoft-consulting.com/"
+
+		[[params.sponsor]]
+		 	name = "Axa Maroc"
+		 	logo = "axa-square.jpg"
+		 	link = "https://www.axa.ma"
+
+		[[params.sponsor]]
+		 	name = "La Combe du Lion Vert"
+		 	logo = "La_Combe_du_Lion_Vert.png"
+		 	link = "https://la-combe-du-lion-vert.fr/"
+
 		#[[params.sponsor]]
 		#	name = "Octo Technology"
 		#	logo = "octo-square.png"
@@ -316,16 +341,6 @@ googleAnalytics = "278882533"
 		# 	name = "Novencia"
 		# 	logo = "novencia-square.jpg"
 		# 	link = "http://www.novencia.com"
-
-		#[[params.sponsor]]
-		# 	name = "Axa"
-		# 	logo = "axa-square.jpg"
-		# 	link = "https://www.axa.fr"
-
-		#[[params.sponsor]]
-		# 	name = "La Combe du Lion Vert"
-		# 	logo = "La_Combe_du_Lion_Vert.png"
-		# 	link = "https://la-combe-du-lion-vert.fr/"
 		
 		
 
