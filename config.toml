@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://bzinoun.github.io/socrates-ma/"
+baseurl = "https://socrates-ma.github.io/"
 languageCode = "en-us"
 title = "SoCraTes-MA"
 description = "International Conference for Software Craft and Testing"
@@ -394,4 +394,3 @@ googleAnalytics = "278882533"
     [[params.footer.social]]
 			icon = "fa-instagram"
 			link = "https://www.instagram.com/moroccansoftwarecrafters/"
-
