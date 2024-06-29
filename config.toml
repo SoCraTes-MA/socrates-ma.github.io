@@ -375,7 +375,7 @@ googleAnalytics = "278882533"
 	[params.contact]
 		enable = true
 		title = "Pre-registration is now open !!"
-		subtitle  = "The event will be limited to 40 participants with a managed hotel accomodation within Vichy Celestins, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat"
+		subtitle  = "The event will be limited to 60 participants with a managed hotel accomodation within Vichy Celestins, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat"
 		buttonText = "Send message"
 
 	# Footer section
