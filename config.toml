@@ -34,7 +34,7 @@ googleAnalytics = "278882533"
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
 	email = "socrates.ma@gmail.com"
-	gforms = "1FAIpQLSc40jBL3dTrDNw_efqMEgsFuLRSrP09Ry2mm8n_z52Vmk_s0w/"
+	gforms = "1FAIpQLSc40jBL3dTrDNw_efqMEgsFuLRSrP09Ry2mm8n_z52Vmk_s0w"
 
 	# Navigation
 	[params.navigation]
