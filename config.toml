@@ -267,10 +267,10 @@ googleAnalytics = "278882533"
 		title = "Our Previous Sponsors"
 		subtitle = ""
 
-		[[params.sponsor]]
-			name = "Societe Generale ATS"
-			logo = "SG-ATS.jpg"
-			link = "https://careers.societegenerale.com/en/group/africa-technologies-services"
+		# [[params.sponsor]]
+		# 	name = "Societe Generale ATS"
+		# 	logo = "SG-ATS.jpg"
+		# 	link = "https://careers.societegenerale.com/en/group/africa-technologies-services"
 
    		[[params.sponsor]]
 			name = "Keiken Digital Solutions"
@@ -282,40 +282,40 @@ googleAnalytics = "278882533"
 			logo = "maltem-square.jpeg"
 			link = "https://maltem.com/en/blog/portfolio-item/maltem-africa/"
 
-		[[params.sponsor]]
-		 	name = "Zenika"
-		 	logo = "logo-zenika.jpeg"
-		 	link = "http://www.zenika.com"
+		# [[params.sponsor]]
+		#  	name = "Zenika"
+		#  	logo = "logo-zenika.jpeg"
+		#  	link = "http://www.zenika.com"
 
 		[[params.sponsor]]
 			name = "INWI"
 			logo = "inwi-square.jpeg"
 			link = "https://inwi.ma/"
 
-		[[params.sponsor]]
-			name = "NimbleWays"
-			logo = "nimble-square.jpeg"
-			link = "https://www.nimbleways.com"
+		# [[params.sponsor]]
+		# 	name = "NimbleWays"
+		# 	logo = "nimble-square.jpeg"
+		# 	link = "https://www.nimbleways.com"
 
  		[[params.sponsor]]
 			name = "Gemography"
 			logo = "gemography-square.png"
 			link = "https://www.gemography.com"
 
-		[[params.sponsor]]
-			name = "ZSoft Consulting"
-			logo = "zsoft-logo.jpeg"
-			link = "https://www.zsoft-consulting.com/"
+		# [[params.sponsor]]
+		# 	name = "ZSoft Consulting"
+		# 	logo = "zsoft-logo.jpeg"
+		# 	link = "https://www.zsoft-consulting.com/"
 
-		[[params.sponsor]]
-		 	name = "Axa Maroc"
-		 	logo = "axa-square.jpg"
-		 	link = "https://www.axa.ma"
+		# [[params.sponsor]]
+		#  	name = "Axa Maroc"
+		#  	logo = "axa-square.jpg"
+		#  	link = "https://www.axa.ma"
 
-		[[params.sponsor]]
-		 	name = "La Combe du Lion Vert"
-		 	logo = "La_Combe_du_Lion_Vert.png"
-		 	link = "https://la-combe-du-lion-vert.fr/"
+		# [[params.sponsor]]
+		#  	name = "La Combe du Lion Vert"
+		#  	logo = "La_Combe_du_Lion_Vert.png"
+		#  	link = "https://la-combe-du-lion-vert.fr/"
 
 		#[[params.sponsor]]
 		#	name = "Octo Technology"
@@ -341,30 +341,30 @@ googleAnalytics = "278882533"
 		# 	name = "Novencia"
 		# 	logo = "novencia-square.jpg"
 		# 	link = "http://www.novencia.com"
-		
-		
-
 
 		# [[params.sponsor]]
         #	name = "BCG Platinion"
         #	logo = "bcg-square.png"
         #	link = "https://www.bcg.com/"
 
-# 		[[params.sponsor]]
-# 			name = "Viseo Technologies"
-# 			logo = "viseo-square.jpg"
-# 			link = "http://www.viseo.com"
+		# [[params.sponsor]]
+		# 	name = "Viseo Technologies"
+		# 	logo = "viseo-square.jpg"
+		# 	link = "http://www.viseo.com"
 
-# 		[[params.sponsor]]
-# 			name = "Codurance"
-# 			logo = "codurance-square.png"
-# 			link = "http://codurance.com"
+		# [[params.sponsor]]
+		# 	name = "Codurance"
+		# 	logo = "codurance-square.png"
+		# 	link = "http://codurance.com"
 
  		# [[params.sponsor]]
  		# 	name = "Orange"
  		# 	logo = "orange-square.png"
  		# 	link = "https://developer.orange.com"
-
+		[[params.sponsor]] 
+			name = "INNOVX"
+			logo = "innovx-square.png"
+			link = "https://innovx.ma/"
 
 	[params.socratesday]
 		enable = false
