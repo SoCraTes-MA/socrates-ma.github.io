@@ -67,7 +67,7 @@ googleAnalytics = "278882533"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "September 11-14, 2025 International Conference for Software Craft and Testing."
+		title = "September 4-7, 2025 International Conference for Software Craft and Testing."
 		subtitle = "SoCraTeS Morocco 2025"
 		buttontext = "Tell me more"
 
@@ -123,7 +123,7 @@ googleAnalytics = "278882533"
 
 		[[params.about.events]]
 			img = "vechy-bouznika.jpg"
-			date = "September 11-14, 2025"
+			date = "September 4-7, 2025"
 			title = "Third edition - Bouznika"
 			description = "We plan to gather 60 software crafts, join us and be part of this edition!"
 
