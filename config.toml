@@ -33,8 +33,9 @@ googleAnalytics = "278882533"
 	# - send a dummy email yourself to confirm your account
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
+	# - edit - 1osmc-GQVmLHXnU-CC5GLhga8wlAIDTNEtIoBfXu1pVA
 	email = "socrates.ma@gmail.com"
-	gforms = "1FAIpQLSc40jBL3dTrDNw_efqMEgsFuLRSrP09Ry2mm8n_z52Vmk_s0w"
+	gforms = "1FAIpQLScE1UG7XRvNYt4VzlFFjyrNWrHn2aCFWuqryuCnv5CYUt9flA"
 
 	# Navigation
 	[params.navigation]
@@ -66,8 +67,8 @@ googleAnalytics = "278882533"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "September 12-15, 2024 International Conference for Software Craft and Testing."
-		subtitle = "SoCraTeS Morocco 2024"
+		title = "September 4-7, 2025 International Conference for Software Craft and Testing."
+		subtitle = "SoCraTeS Morocco 2025"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -122,6 +123,12 @@ googleAnalytics = "278882533"
 
 		[[params.about.events]]
 			img = "vechy-bouznika.jpg"
+			date = "September 4-7, 2025"
+			title = "Third edition - Bouznika"
+			description = "We plan to gather 60 software crafts, join us and be part of this edition!"
+
+		[[params.about.events]]
+			img = "vechy-bouznika.jpg"
 			date = "September 12-15, 2024"
 			title = "Third edition - Bouznika"
 			description = "We plan to gather 60 software crafts, join us and be part of this edition!"
@@ -137,8 +144,6 @@ googleAnalytics = "278882533"
 			date = "March 25-27, 2022"
 			title = "First edition - Marrakesh"
 			description = "We gathered 30 software craft and 8 partner/sponsors"
-
-
 
 
 	# Team section
@@ -252,7 +257,7 @@ googleAnalytics = "278882533"
 
 	# Partners section
 	[params.partners]
-		enable = true
+		enable = false
 		title = "Our Knowledge Partner"
 		subtitle = ""
 
@@ -263,7 +268,7 @@ googleAnalytics = "278882533"
 
 	# Sponsor section
 	[params.sponsors]
-		enable = true
+		enable = false
 		title = "Our Previous Sponsors"
 		subtitle = ""
 
