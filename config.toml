@@ -150,7 +150,7 @@ googleAnalytics = "278882533"
 	[params.team]
 		enable = true
 		title = "SoCraTes-MA is a part of a big family."
-		subtitle = "The first “Software Craft and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
+		subtitle = "The first \"Software Craft and Testing (un)conference\" took place a few years ago in Germany and is organised every year since 2011."
 		description = "Other conferences have emerged in other European countries such as SoCraTes UK SoCraTes FR and SoCraTes Canaries."
 
 
@@ -380,8 +380,9 @@ googleAnalytics = "278882533"
 	[params.contact]
 		enable = true
 		title = "Pre-registration is now open !!"
-		subtitle  = "The event will be limited to 60 participants with a managed hotel accomodation within Vichy Celestins, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat"
+		subtitle  = "The event will be limited to 60 participants with a managed hotel accomodation within The view Hotel Bouznika, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat"
 		buttonText = "Send message"
+		explains = "Doors are open! Registration is now live. Early bird discounts are gone — current ticket price:**5000 MAD**."
 
 	# Footer section
 	[params.footer]
